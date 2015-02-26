@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mojio App</string>
+    <string name="title_activity_login_mojio">Mojio OAuth2 Login</string>
+    <string name="menu_title_login">Login</string>
+    <string name="menu_title_reset">Clear session</string>
+    <string name="menu_title_exit">Exit</string>
+</resources>
