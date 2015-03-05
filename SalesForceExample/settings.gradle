@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':mojiosdksrc'
+project(':mojiosdksrc').projectDir = new File(settingsDir, '../../mojio-android-sdk/MojioSDK/mojiosdksrc')

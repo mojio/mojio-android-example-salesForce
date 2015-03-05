@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SalesForceExample.iml" filepath="$PROJECT_DIR$/SalesForceExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mojio-android-sdk/MojioSDK/mojiosdksrc/mojiosdksrc.iml" filepath="$PROJECT_DIR$/../../mojio-android-sdk/MojioSDK/mojiosdksrc/mojiosdksrc.iml" />
     </modules>
   </component>
 </project>
